@@ -1,4 +1,5 @@
-## Hi there 👋
+## Jamsin HS 3rd Grade
+## 코딩하는 고3
 
 <!--
 **grabic1060/grabic1060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
